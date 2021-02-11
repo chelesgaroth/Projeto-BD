@@ -1,7 +1,7 @@
 # Trabalho Prático: Internet Movie Database 
 
 
-Ao longo deste projeto, foi desenvolvida uma base de dados de filmes, semelhante ao IMDB, cujo
+  Ao longo deste projeto, foi desenvolvida uma base de dados de filmes, semelhante ao IMDB, cujo
 objetivo principal é a catalogação e avaliação de filmes por parte dos usuários. Esta implementação visa
 representar todo o processo desde a adição de um novo filme na BD, a adição de um novo user, a
 contemplação de todas as suas avaliações , a atribuição de prémios e nomeações, além de se ter em

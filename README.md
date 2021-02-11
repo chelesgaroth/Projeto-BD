@@ -11,4 +11,4 @@ Inicialmente, foi feita a análise e o levantamento de todos os requisitos essen
 do sistema. Com isto, foi possível, utilizando o sofware “BRModelo” desenvolver o modelo conceptual
 de acordo com a metodologia abordada nas aulas. Após isto, no “MySQL Workbench” desenvolvemos o
 modelo lógico, tendo em conta as regras de mapeamento ER, e, a partir do script gerado (referente á
-criação da base de dados e das suas tabelas), foi feita a implementação física da nossa BD.
+criação da base de dados e das suas tabelas), foi feita a implementação física da nossa BD em SQL.

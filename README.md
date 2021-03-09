@@ -12,3 +12,9 @@ do sistema. Com isto, foi possível, utilizando o sofware “BRModelo” desenvo
 de acordo com a metodologia abordada nas aulas. Após isto, no “MySQL Workbench” desenvolvemos o
 modelo lógico, tendo em conta as regras de mapeamento ER, e, a partir do script gerado (referente á
 criação da base de dados e das suas tabelas), foi feita a implementação física da nossa BD em SQL.
+
+
+## Authors
+* Ana Filipa Pereira
+* [Carolina Santejo](https://github.com/CarolinaSantejo)
+* [Raquel Costa](https://github.com/chelesgaroth)

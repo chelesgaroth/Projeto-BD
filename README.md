@@ -13,6 +13,7 @@ de acordo com a metodologia abordada nas aulas. Após isto, no “MySQL Workbenc
 modelo lógico, tendo em conta as regras de mapeamento ER, e, a partir do script gerado (referente á
 criação da base de dados e das suas tabelas), foi feita a implementação física da nossa BD em SQL.
 
+Nota Final TP: 15
 
 ## Authors
 * Ana Filipa Pereira
